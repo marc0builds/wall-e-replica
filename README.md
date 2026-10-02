@@ -1,6 +1,6 @@
 # WALL-E Replica
 
-Part of [marc0builds](https://mmessa28.github.io/marc0builds/) · [Instagram](https://instagram.com/marc0builds) · [Support the build](https://buymeacoffee.com/marc0builds)
+Part of [marc0builds](https://marc0builds.github.io/) · [Instagram](https://instagram.com/marc0builds) · [Support the build](https://buymeacoffee.com/marc0builds)
 
 **Status: 🟡 printing parts**
 
